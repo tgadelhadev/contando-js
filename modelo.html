@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contando</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+
+    <header>
+        <h1>Contando</h1>
+    </header>
+    
+    <section>
+    <div class="campo">
+        <label for="inicio">Início:</label>
+        <input type="number" name="inicio" id="inicio">
+    </div>
+    <div class="campo">
+        <label for="fim">Fim:</label>
+        <input type="number" name="fim" id="fim">
+    </div>
+    <div class="campo">
+        <label for="passo">Passo:</label>
+        <input type="number" name="passo" id="passo">
+    </div>
+    <div class="campo">
+        <button onclick="contar()">Contar</button>
+    </div>
+    
+    <div id="res">
+        Preparando a contagem...
+    </div>
+    
+</section>
+    
+    <footer>
+        <p>&copy;TiagoLopes</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
