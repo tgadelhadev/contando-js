@@ -17,7 +17,7 @@ Um pequeno projeto para contar números de um valor inicial até um valor final,
 
 ## Autor
 
-Tiago Lopes
+Tiago Gadelha
 
 ## Contato
 
