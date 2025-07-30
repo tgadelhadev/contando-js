@@ -16,7 +16,7 @@ function contar() {
     
 
     if (pasNum <= 0) {
-        alert ("Passo inválido! Corrija e tente novamente.")
+        alert("⚠️ Passo inválido. Use um número maior que zero.")
         return
     } 
 
@@ -38,4 +38,4 @@ function contar() {
     } res.innerHTML += "🏁"
     
         
-    }
+}

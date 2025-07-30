@@ -29,3 +29,12 @@ input[type="number"] {
     padding: 5px;
     font-size: 14px;
 }
+#res {
+    color: #555;
+    font-style: italic;
+    padding: 10px;
+}
+section {
+    width: 90%;
+    max-width: 500px;
+}
