@@ -4,16 +4,22 @@ Um pequeno projeto para contar números de um valor inicial até um valor final,
 
 ## Como usar
 
-1. Abra o arquivo `modelo.html` no navegador.
-2. Informe os números de início, fim e passo.
-3. Clique em "Contar" para ver a sequência aparecer na tela.
+1. Clone ou baixe este repositório.
+2. Abra o arquivo `index.html` no navegador.
+3. Informe os números de início, fim e passo.
+4. Clique em **Contar** para ver a sequência aparecer na tela.
 
 ## Tecnologias usadas
 
-- HTML5
-- CSS3
-- JavaScript (DOM, Eventos, Loops)
+- HTML5  
+- CSS3  
+- JavaScript (DOM, Eventos, Estruturas de Repetição)
 
 ## Autor
 
 Tiago Lopes
+
+## Contato
+
+- GitHub: [https://github.com/tgadelhadev](https://github.com/tgadelhadev)  
+
